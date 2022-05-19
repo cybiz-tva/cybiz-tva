@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/cybiz"><img src="https://api.daily.dev/devcards/bd696b2273b2454e9c3516545bc1e891.png?r=rq5" width="400" alt="Ishwar Singh Panwar's Dev Card"/></a>
