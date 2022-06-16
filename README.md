@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 Working on my masterpeice, i'll be the one to decide when it's finished! 
 <!--
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 -->
 
 
-welcome :)
